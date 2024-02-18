@@ -1,5 +1,4 @@
 <header>
-<img src="Content/Icons/Cosmetics/uth_logo_eng.png" width="100px" height="100px" alt="University of thessaly logo" align="right"/>
 <h1 align="center">TIME DOMAIN INDEX MODULATION (TDIM) IN A RESIDUAL CARRIER DIGITAL COMMUNICATION SYSTEM</h1>
 
 <p align="center">Spiros Zervos<em>
